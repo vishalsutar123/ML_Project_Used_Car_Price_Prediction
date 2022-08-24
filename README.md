@@ -1,5 +1,5 @@
 # ML_Project_Used_Car_Price_Prediction
-Developed a Machine Learning application that predicts the price of Used Cars.
+Developed a Machine Learning application that predicts the price of Used Cars.              
 Project Title: Used Car Price Prediction.
 I have developed this machine learning model using LinearRegression algorithm.
 In this model predicts the price of used cars on various pparameters such as 'year','owner type','kilometers driven','fuel type' etc.
