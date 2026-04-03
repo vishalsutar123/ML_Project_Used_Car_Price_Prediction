@@ -6,6 +6,10 @@ In this model predicts the price of used cars on various pparameters such as 'ye
 In the data set fuel type=1->Pretol,fuel type=2->Diesel,fuel type=3->CNG.          
 similarly for owner type=1->first,owner type=2->second,owner type=3->third.          
 similarly for Transmission=0->Manual,Transmission=1->Automatic.         
-Based on given input model predicts the price of the car.        
+Based on given input model predicts the price of the car. 
+
+
+
+hhhhjjhjkhjgir=vsvfsvfdgfggdfgfdgfdg
 
 
