@@ -24,3 +24,6 @@ i am making changes to demo branch onlysdsdsdsds
 git switch -c newlocal4
 
 git switch -c newlocal4
+
+git switch -c newlocal4
+git switch -c newlocal4
